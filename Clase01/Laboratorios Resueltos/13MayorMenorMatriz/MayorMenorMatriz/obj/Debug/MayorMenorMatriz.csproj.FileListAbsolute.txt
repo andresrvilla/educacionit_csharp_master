@@ -1,0 +1,6 @@
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\13MayorMenorMatriz\MayorMenorMatriz\bin\Debug\MayorMenorMatriz.exe
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\13MayorMenorMatriz\MayorMenorMatriz\bin\Debug\MayorMenorMatriz.pdb
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\13MayorMenorMatriz\MayorMenorMatriz\obj\Debug\MayorMenorMatriz.csprojAssemblyReference.cache
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\13MayorMenorMatriz\MayorMenorMatriz\obj\Debug\MayorMenorMatriz.csproj.CoreCompileInputs.cache
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\13MayorMenorMatriz\MayorMenorMatriz\obj\Debug\MayorMenorMatriz.exe
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\13MayorMenorMatriz\MayorMenorMatriz\obj\Debug\MayorMenorMatriz.pdb

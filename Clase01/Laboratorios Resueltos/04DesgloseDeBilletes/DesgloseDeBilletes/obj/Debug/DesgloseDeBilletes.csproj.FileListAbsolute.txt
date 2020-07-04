@@ -1,0 +1,6 @@
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\04DesgloseDeBilletes\DesgloseDeBilletes\bin\Debug\DesgloseDeBilletes.exe
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\04DesgloseDeBilletes\DesgloseDeBilletes\bin\Debug\DesgloseDeBilletes.pdb
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\04DesgloseDeBilletes\DesgloseDeBilletes\obj\Debug\DesgloseDeBilletes.csprojAssemblyReference.cache
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\04DesgloseDeBilletes\DesgloseDeBilletes\obj\Debug\DesgloseDeBilletes.csproj.CoreCompileInputs.cache
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\04DesgloseDeBilletes\DesgloseDeBilletes\obj\Debug\DesgloseDeBilletes.exe
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\04DesgloseDeBilletes\DesgloseDeBilletes\obj\Debug\DesgloseDeBilletes.pdb

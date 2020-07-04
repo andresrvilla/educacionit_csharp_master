@@ -1,0 +1,6 @@
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\09SumaDeNumeros\SumaDeNumeros\bin\Debug\SumaDeNumeros.exe
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\09SumaDeNumeros\SumaDeNumeros\bin\Debug\SumaDeNumeros.pdb
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\09SumaDeNumeros\SumaDeNumeros\obj\Debug\SumaDeNumeros.csprojAssemblyReference.cache
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\09SumaDeNumeros\SumaDeNumeros\obj\Debug\SumaDeNumeros.csproj.CoreCompileInputs.cache
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\09SumaDeNumeros\SumaDeNumeros\obj\Debug\SumaDeNumeros.exe
+D:\EducacionIT\Code\RepositoriosBase\educacionit_csharp_master\Clase01\Laboratorios Resueltos\09SumaDeNumeros\SumaDeNumeros\obj\Debug\SumaDeNumeros.pdb
